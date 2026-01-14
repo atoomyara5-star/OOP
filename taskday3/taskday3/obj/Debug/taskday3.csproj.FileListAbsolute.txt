@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\yara\oop\taskday3\taskday3\bin\Debug\taskday3.exe.config
+C:\Users\Dell\Desktop\yara\oop\taskday3\taskday3\bin\Debug\taskday3.exe
+C:\Users\Dell\Desktop\yara\oop\taskday3\taskday3\bin\Debug\taskday3.pdb
+C:\Users\Dell\Desktop\yara\oop\taskday3\taskday3\obj\Debug\taskday3.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\yara\oop\taskday3\taskday3\obj\Debug\taskday3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\yara\oop\taskday3\taskday3\obj\Debug\taskday3.exe
+C:\Users\Dell\Desktop\yara\oop\taskday3\taskday3\obj\Debug\taskday3.pdb
+C:\Users\Dell\Desktop\yara\oop\taskday3\taskday3\obj\Debug\taskday3.exe.config
